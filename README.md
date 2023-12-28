@@ -1,7 +1,7 @@
 # Maya-Python-Scripts
 Python plugins for Maya
 
-## L-System Garden
+## L-SystemGarden
 ![](/LSystemGarden/LSystemGardenDemo01.gif)
 <img src='/LSystemGarden/preview02.png' width='518'>
 ### How to use?
@@ -29,4 +29,14 @@ importlib.reload(gui_LGarden)
 - ref1:http://algorithmicbotany.org/papers/#abop
 - ref2:http://paulbourke.net/fractals/lsys/
 
-## 
+## stoneCirclePlugin
+![stoneCirclePreview](https://github.com/wzhang1998/Maya-Python-Scripts/assets/67906283/6f0da355-6de7-4f96-9f9a-4df74a854180)\
+This is a plug-in to make rings of standing stones.
+
+### How to use?
+1. move all the files in this folder into your Maya plug-in folder
+2. open Plug-in Manager Window, search stoneGui.py, and check 'Loaded'
+3. then you can start creating customize stone circles!
+
+### More
+- still have some issue with deleting overlapping, I've tried to use the bounding box command.
