@@ -31,8 +31,8 @@ importlib.reload(gui_LGarden)
 
 ## RandomGen
 <img src="https://github.com/wzhang1998/Maya-Python-Scripts/assets/67906283/c45cb706-a09d-42b1-9b61-6022b5dbdc1d" width='518'>\
-This script generates a random colorful animated scene using three hided meshes in the Maya scene: 'cartoon_controller', 'soda_can', 'lollipop'
-Don't forget to play the animation ;)       
+- This script generates a random colorful animated scene using three hided meshes in the Maya scene: 'cartoon_controller', 'soda_can', 'lollipop'
+- Don't forget to play the animation ;)       
 
 ### How to use?
 1. open 10_8_script_RandomGen.ma in Maya
